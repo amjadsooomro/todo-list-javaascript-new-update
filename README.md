@@ -1,1 +1,1 @@
-https://github.com/amjadsooomro/todo-list-javaascript-new-update.git
+https://amjadsooomro.github.io/todo-list-javaascript-new-update/
